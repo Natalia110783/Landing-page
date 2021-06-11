@@ -23,7 +23,7 @@ h4{
 }
 
 #banner {
-	background-image: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("images/Computadora.jpg");
+	background-image: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("images/computadora.jpg");
 	background-size: cover;
 	background-position: center;
 	padding: 60px 0;
